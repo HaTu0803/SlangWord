@@ -1,0 +1,14 @@
+1. Cách sử dụng HashMap trong java
+https://viettuts.vn/java-collection/hashmap-trong-java?fbclid=IwAR2qbZbOS9WZSKcCq5SFOFMAcg8lgKXsmpNp7xcf8p_5E8EzHFgy7CauXN8#:~:text=HashMap%20%C4%91%C6%B0%E1%BB%A3c%20s%E1%BB%AD%20d%E1%BB%A5ng%20%C4%91%E1%BB%83,d%E1%BA%A1ng%20c%E1%BA%B7p%20key%20v%C3%A0%20value
+
+2. Cách sử dụng HashSet trong java
+https://viettuts.vn/java-collection/hashset-trong-java?fbclid=IwAR3AMnK7FPprbUhTFgaDiW3TG72ebvo7g0MmZzdDpHSFuVSshi3n8JaMkes
+
+3. Cách sử dụng LinkedList trong java
+
+https://viettuts.vn/java-collection/linkedlist-trong-java?fbclid=IwAR0yGYyJ9pERBNHYd9MzFtjFgXuJwmxVSi0te42QEoxNSMIhqhwx0GeqZLs
+
+4. Tham khảo phần code trong link youtube
+
+https://www.youtube.com/watch?v=m5m-Fuc77fg&ab_channel=FoveITOfficial
+
